@@ -1,0 +1,9 @@
+node_modules/
+.env
+data/*.sqlite
+data/*.sqlite-journal
+data/*.sqlite-wal
+data/*.sqlite-shm
+public/images/books/*
+!public/images/books/.gitkeep
+npm-debug.log
